@@ -1,0 +1,2 @@
+# ensemble_machine_learning_technique_for_identifying_COVID_19_from_CT_scan_images
+Ensemble Machine Learning Technique for Identifying COVID-19 from CT Scan Images
